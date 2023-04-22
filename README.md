@@ -13,16 +13,18 @@
 
 <br>
 
+Summary
 
-### I am a Systems Engineer Specialist at Infosys
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+As a computer science major and last semester senior at George Mason University, I am a dedicated and
+hardworking individual with a strong passion for self-improvement and a determination to reach my goals
+despite setbacks. I have a broad range of experience in machine learning projects, including the use of the
+NEAT library involving evolutionary neural networks and letter recognition, as well as the development of
+a chess AI, game pattern recognition and more. In addition, I have a keen interest in automation and have
+experience in creating and managing complex projects from twitter farms for advertising, website redirect
+with chatbot implementation and data gathering. I am also skilled in web crawling and data
+collection/cleaning and have experience in working with proxies for social media and video game farms
+for digital currency exploitation.
+
 
 <br>
 
