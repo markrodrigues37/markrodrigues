@@ -165,4 +165,4 @@
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
 [linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
 -----
-Credits: [SumanthTalluri](https://github.com/markrodrigues37i)
+Credits: [Mark Rodrigues](https://github.com/markrodrigues37i)
